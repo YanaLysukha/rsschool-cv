@@ -44,7 +44,9 @@ const sameParity = (arr) => {
 ### Education:
 
 * **Bachelor's degree, Vitebsk State Medical University**
+  + Pharmaceutical Faculty
 * **Hexlet Courses**
   + HTML Developer
+  + Frontend Developer (in progress)
 
 *********
