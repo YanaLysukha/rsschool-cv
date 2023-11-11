@@ -50,3 +50,10 @@ const sameParity = (arr) => {
   + Frontend Developer (in progress)
 
 *********
+
+### Languages:
+
+* **English** - Intermediate
+* **Belarusian** - Native
+* **Russian** - Native
+* **Polish** - Pre-intermediate
