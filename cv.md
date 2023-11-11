@@ -40,3 +40,11 @@ const sameParity = (arr) => {
 ```
 
 *********
+
+### Education:
+
+* **Bachelor's degree, Vitebsk State Medical University**
+* **Hexlet Courses**
+  + HTML Developer
+
+*********
