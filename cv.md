@@ -26,3 +26,17 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 * Figma
 
 *********
+
+### Code example:
+
+*Function that takes an array as input and returns a new one consisting of elements that have the same parity as the first element of the input array.*
+
+```
+const isEven = (num) => num % 2 === 0;
+const sameParity = (arr) => {
+  const firstElement = isEven(arr[0]);
+  return arr.filter((element) => isEven(element) === firstElement);
+};
+```
+
+*********
