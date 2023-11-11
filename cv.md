@@ -16,3 +16,13 @@ I've decided to change my career due to the lack of opportunities in the career 
 I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 
 **********
+
+### Skills and Proficiency:
+
+* HTML5
+* CSS3 (Bootstrap, SASS/SCSS)
+* JavaScript Basics
+* Git, GitHub
+* Figma
+
+*********
